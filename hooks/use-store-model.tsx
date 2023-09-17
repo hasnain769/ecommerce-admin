@@ -1,5 +1,5 @@
 import { create } from "zustand";
-
+//hooks
 interface useStoreModelStore{
     isopen :boolean,
     onOpen:()=>void,
